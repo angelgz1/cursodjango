@@ -1,3 +1,8 @@
 desde la pc local
 
+
 mis cambios en el mismo archivo en el local
+
+
+cambios que se estan realizando en el mismo archivo
+
